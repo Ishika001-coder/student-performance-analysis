@@ -19,7 +19,7 @@ The main objective is to explore the dataset, identify patterns and relationship
 
 **Dataset:** Student Performance and Learning Behaviour Dataset
 
-**Dataset Link:** Add the original/public dataset URL here.
+Dataset Link: https://www.kaggle.com/datasets/adilshamim8/student-performance-and-learning-style
 
 The dataset used in the analysis contains 14,003 student records and 16 attributes. The analysis found no missing values.
 
